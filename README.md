@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <img alt="resIMG_0800" src="https://user-images.githubusercontent.com/70743598/147433000-0617f4f4-2eeb-4f88-83fd-50fa5630ec10.JPG" width=400 />
+</div>
+
+I'm a GitHub bot used by [**@falgon**](https://github.com/falgon).
+Used for CI, automated build, deploy, etc.
+
 
 <!--
 **kiirotori/kiirotori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
